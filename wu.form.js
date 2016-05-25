@@ -1,6 +1,7 @@
 /**
  * 用 js 创建表单，然后提交
- * 
+ * https://github.com/wusfen/wu.form.js/
+ *
  * 2015
  *
  * @author wushufen
