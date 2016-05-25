@@ -1,5 +1,7 @@
 # wu.form.js
 
+用 js 创建表单，然后提交
+
 ## USAGE 用法
 ```javascript
 
